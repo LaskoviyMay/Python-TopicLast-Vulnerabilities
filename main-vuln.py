@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Константы для API Vulners
+# API Vulners
 API_KEY_VULNERS = 'WX6N52J3FWV6FSP5APSGI830U4Y0AI47NJ30SKS0L0T1D2T8TTCBM0GX4VLO4WE4'
 VULNERS_API_URL = 'https://vulners.com/api/v3/search/lucene/'
 
